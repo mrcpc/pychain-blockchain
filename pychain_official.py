@@ -207,7 +207,6 @@ if st.button("Add Block"):
     )
     
     pychain.add_block(new_block)
-    st.balloons()
 
 ################################################################################
 # Streamlit Code (continues)
